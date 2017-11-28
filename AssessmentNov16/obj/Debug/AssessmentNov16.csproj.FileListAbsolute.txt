@@ -1,0 +1,6 @@
+c:\users\ahamlin\documents\visual studio 2015\Projects\AssessmentNov16\AssessmentNov16\bin\Debug\AssessmentNov16.exe.config
+c:\users\ahamlin\documents\visual studio 2015\Projects\AssessmentNov16\AssessmentNov16\bin\Debug\AssessmentNov16.exe
+c:\users\ahamlin\documents\visual studio 2015\Projects\AssessmentNov16\AssessmentNov16\bin\Debug\AssessmentNov16.pdb
+c:\users\ahamlin\documents\visual studio 2015\Projects\AssessmentNov16\AssessmentNov16\obj\Debug\AssessmentNov16.csprojResolveAssemblyReference.cache
+c:\users\ahamlin\documents\visual studio 2015\Projects\AssessmentNov16\AssessmentNov16\obj\Debug\AssessmentNov16.exe
+c:\users\ahamlin\documents\visual studio 2015\Projects\AssessmentNov16\AssessmentNov16\obj\Debug\AssessmentNov16.pdb
